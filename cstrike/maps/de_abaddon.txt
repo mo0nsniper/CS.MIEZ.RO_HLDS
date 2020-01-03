@@ -1,0 +1,18 @@
+===================================
+This map Created Special for GZN.lt
+		   BY
+	  MeDioN & pastuh
+===================================
+
+		   Log:
+2007.04.10 - Added +2 Walls [ FINAL ]
+2007.04.09 - Fixed WorldSpawn bug
+2007.03.15 - Fixed some map bugs
+2007.03.14 - Created map de_abaddon
+
+
+
+***********************************
+	  THX FOR PLAYING!
+	 LTU MAPPERS @2007
+***********************************

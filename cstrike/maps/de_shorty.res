@@ -1,0 +1,9 @@
+maps/de_shorty.bsp
+maps/de_shorty.res
+de_shorty.wad
+gfx/env/tornskybk.tga
+gfx/env/tornskydn.tga
+gfx/env/tornskyft.tga
+gfx/env/tornskylf.tga
+gfx/env/tornskyrt.tga
+gfx/env/tornskyup.tga

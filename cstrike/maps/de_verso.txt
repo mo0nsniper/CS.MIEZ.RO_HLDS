@@ -1,0 +1,17 @@
+de_verso
+Created by SuperJer
+
+http://superjer.com
+
+Based on de_contra
+de_contra was designed by Sov.Ps and
+ built by SuperJer
+
+"Is this better? I made a bunch of
+ new textures and got rid of all the
+ aztec-ness."
+   -SuperJer
+
+
+
+

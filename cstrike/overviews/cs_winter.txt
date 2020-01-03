@@ -1,0 +1,14 @@
+// overview description file for cs_winter
+
+global 
+{
+	ZOOM	1.22
+	ORIGIN	-192.00 288.00 68.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_winter.bmp"
+	HEIGHT	-409.0
+}

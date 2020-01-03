@@ -1,0 +1,21 @@
+SunTower - Bomb/Defusion
+
+Original layout and design by Davej.
+(http://www.planethalflife.com/davej)
+
+Map finished and retextured by T-1000. 
+(http://www.t1k.cscentral.com) | (rjp85@hotmail.com)
+
+Textures by JoeSmoe, Questionable*Ethics,
+Blazeer, Davej, and myself.
+
+Map Overview by C3RBERUS
+
+Counter-Terrorists: Prevent the Terrorist
+forces from destroying the lighthouse or the
+storage room.  Eliminate all Terrorists if necessary.
+
+Terrorists: Destroy the lighthouse or the
+storage room. Eliminate all CT's if necessary.
+
+(Press Fire to continue)

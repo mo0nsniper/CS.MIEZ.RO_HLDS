@@ -1,0 +1,10 @@
+fy_defeat (Fight Yard)
+
+by Tatu Eugen (www.tatueugen.info)
+
+A simple map, based on 4 buildings in middle of the map,
+4 tower in every corners, 2 for every team. 2 Walls after every base,
+connected with every tower. From buildings you can go up on them.
+Map for 32 players, bug reports: contact@tatueugen.info
+
+Have fun!

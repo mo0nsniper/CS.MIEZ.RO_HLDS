@@ -1,0 +1,19 @@
+Romania 2012 - Bomb/Defuse
+
+by Tatu Eugen (www.tatueugen.info)
+
+Version 2.0
+Based on Romania 2011 plan, after one year, 
+over 2011 version, a new map is released, 
+2012 version. More good, and more balanced.
+Remaked all plan, and added new zones.
+
+Counter-Terrorists: Prevent Terrorists
+from bombing crates form site.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the site. 
+
+Other Notes: There are 2 bomb site in the mission.

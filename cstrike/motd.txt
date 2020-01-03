@@ -1,0 +1,39 @@
+<html>
+<head>
+<body bgcolor=#000000>
+
+<center>
+	<font face="Lucida Console" color="white" size="7">
+		<img src="http://miez.ro/images/website/miez.png" alt="CS.MIEZ.ro" >
+	</font>
+</center>
+<br>
+<font face="Lucida Console" color="white" size="3">
+Website: http://CS.MIEZ.ro<br>
+Forum:&nbsp;&nbsp; http://cs.miez.ro/forum<br>
+Contact: mo0n_sniper<br>
+</font>
+<br>
+
+<font face="Lucida Console" color="white" size="5"><b>Reguli:</b></font><br>
+<br>
+<font face="Lucida Console" color="white" size="3">
+<font color=yellow>1. A juca pe acest server este un privilegiu, nu un drept. In functie de comportament acest privilegiu poate fi retras.<br></font>
+<font color=red>2. Nu folositi cheaturi, Pedeapsa: BAN permanent.<br></font>
+3. CFG-urile sunt permise dar trebuie sa contina doar bind-uri si setari de CVAR-uri, fara Alias-uri si CVAR-uri blocate de Anti Cheat.<br>
+4. Nu injurati sau abuzati alti jucatori. Pedeapsa: GAG/KICK/BAN<br>
+5. Nick-urile indecente, adresate cuiva sau reclama sunt interzise. Pedeapsa: RENAME<br>
+6. Reclamele de orice tip sunt interzise (radio, server de cs, site). Pedeapsa: GAG/RENAME<br>
+7. Codatii se raporteaza cu say_team ( u ) si se incepe mesajul cu @. Pedeapsa: GAG<br>
+8. Nu cereti admin/slot pe server, folositi forumul. Pedeapsa: GAG<br>
+9. Nu contestati deciziile adminilor pe server. Pedeapsa: GAG/KICK/BAN<br>
+10. Nu aveti voie sa lipsiti de la tastatura mai mult de 1 runda. Daca sunteti AFK 2 runde, veti fi trecut spectator.<br>
+11. Este FREE GAME ! Dar T au obligata sa planteze Bomba, iar CT Defuse sau sa salveze ostatecii. Pedeapsa: SLAY<br>
+12. Toate armele sunt permise pe toate hartile.<br>
+13. Este permisa urcarea pe harta, dar NU iesirea din textura. Pedeapsa SLAY<br>
+14. Este permis spawn kill pe orice harta.<br>
+15. Pentru orice reclamatii folositi forumul.<br>
+16. La intrebarea daca s-a citit regulamentul se va raspunde cu: Da, l-am citit.<br>
+
+</head>
+</html>

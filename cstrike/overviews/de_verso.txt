@@ -1,0 +1,16 @@
+// overview description file for de_verso.bsp
+// de_verso was created by SuperJer
+// www.superjer.com
+
+global 
+{
+	ZOOM	1.82
+	ORIGIN	-542.44    487.31    576.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_verso.bmp"
+	HEIGHT	-437
+}

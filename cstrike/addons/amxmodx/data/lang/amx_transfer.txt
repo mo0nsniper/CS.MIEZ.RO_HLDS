@@ -1,0 +1,199 @@
+[en]
+TEAM_INVALID = [AMXX] Invalid team specified! Valid teams are: T, CT, Auto, Spec
+TRANSFER_PLAYER_CASE1 = [AMXX] ADMIN Successfully transfered %s to the %s team
+TRANSFER_PLAYER_CASE2 = [AMXX] ADMIN %s Successfully transfered %s to the %s team
+TRANSFER_PLAYER_TEAM = [AMXX] You have been transfered to the %s team
+TRANSFER_PLAYER_LOG = [AMX_Transfer] TEAMTRANSFER: ^"%s<%s>^" transfered ^"%s^" to the ^"%s^" team
+TRANSFER_PLAYER_CONSOLE = [AMXX] You have Successfully transfered %s to the %s team
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE1 = [AMXX] ADMIN Successfully swapped %s with %s
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE2 = [AMXX] ADMIN %s Successfully swapped %s with %s
+TRANSFER_SWAP_TEAM_SUCCESS_CASE1 = [AMXX] ADMIN Successfully swapped the teams!
+TRANSFER_SWAP_TEAM_SUCCESS_CASE2 = [AMXX] ADMIN %s Successfully swapped the teams!
+TRANSFER_SWAP_TEAM_MESSAGE = [AMXX] You have swapped the Teams
+TRANSFER_SWAP_PLAYERS_CONSOLE = [AMXX] Successfully swapped %s with %s
+TRANSFER_PLAYER_ERROR_CASE1 = [AMXX] You can't swap players that are on the same team!
+TRANSFER_PLAYER_ERROR_CASE2 = [AMXX] You can't swap players that are not in a team!
+TRANSFER_SWAP_PLAYERS_MESSAGE1 = [AMXX] You have been swapped with %s
+TRANSFER_SWAP_PLAYERS_MESSAGE2 = [AMXX] You have been swapped with %s
+TRANSFER_SWAP_TEAM_LOG = [AMX_Transfer] TEAMTRANSFER: ^"%s<%s>^" swapped teams
+TRANSFER_SWAP_PLAYERS_LOG = [AMX_Transfer] TEAMTRANSFER: ^"%s<%s>^" swapped ^"%s^" with ^"%s^"
+
+[ro]
+TEAM_INVALID = [AMXX] Echipa specificata nu exista! Poti alege intre: T, CT, Auto, Spec
+TRANSFER_PLAYER_CASE1 = [AMXX] Un admin a transferat cu succes pe %s la echipa %s
+TRANSFER_PLAYER_CASE2 = [AMXX] ADMIN %s a transferat cu succes pe %s la echipa %s
+TRANSFER_PLAYER_TEAM = [AMXX] Ai fost transferat la echipa %s
+TRANSFER_PLAYER_LOG = [AMXX] TransferEchipa: ^"%s<%s>^" transferat ^"%s^" la echipa ^"%s^"
+TRANSFER_PLAYER_CONSOLE = [AMXX] Ai transferat cu succes pe %s la echipa %s
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE1 = [AMXX] Un admin a schimbat cu succes pe %s cu %s
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE2 = [AMXX] ADMIN %s a schimbat cu succes pe %s cu %s
+TRANSFER_SWAP_TEAM_SUCCESS_CASE1 = [AMXX] Un admin a schimbat cu succes echipele intre ele!
+TRANSFER_SWAP_TEAM_SUCCESS_CASE2 = [AMXX] ADMIN %s a schimbat cu succes echipele intre ele!
+TRANSFER_SWAP_TEAM_MESSAGE = [AMXX] Ai schimbat echipele intre ele
+TRANSFER_SWAP_PLAYERS_CONSOLE = [AMXX] Ai schimbat cu succes pe %s cu %s
+TRANSFER_PLAYER_ERROR_CASE1 = [AMXX] Nu poti schimba intre ei jucatorii aceleasi echipe!
+TRANSFER_PLAYER_ERROR_CASE2 = [AMXX] Nu poti schimba intre eu jucatorii care nu sunt in nicio echipa!
+TRANSFER_SWAP_PLAYERS_MESSAGE1 = [AMXX] Ai fost schimbat cu %s
+TRANSFER_SWAP_PLAYERS_MESSAGE2 = [AMXX] Ai fost schimbat cu %s
+TRANSFER_SWAP_TEAM_LOG = [AMX_Transfer] TransferEchipa: ^"%s<%s>^" echipe schimbate
+TRANSFER_SWAP_PLAYERS_LOG = [AMX_Transfer] TransferEchipa: ^"%s<%s>^" a fost schimbat ^"%s^" cu ^"%s^"
+
+[pl]
+TEAM_INVALID = [AMXX] Nieprawidlowa nazwa druzyny! Prawidlowe nazwy druzyn to: T, CT, Auto, Spec
+TRANSFER_PLAYER_CASE1 = [AMXX] ADMIN przeniosl %s do %s
+TRANSFER_PLAYER_CASE2 = [AMXX] ADMIN %s przeniosl %s do %s
+TRANSFER_PLAYER_TEAM = [AMXX] Zostales przeniesiony do %s
+TRANSFER_PLAYER_LOG = [AMX_Transfer] PRZENOSZENIE: ^"%s<%s>^" przeniosl ^"%s^" do ^"%s^"
+TRANSFER_PLAYER_CONSOLE = [AMXX] Przeniosles %s do %s
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE1 = [AMXX] ADMIN zamienil %s z %s
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE2 = [AMXX] ADMIN %s zamienil %s z %s
+TRANSFER_SWAP_TEAM_SUCCESS_CASE1 = [AMXX] ADMIN zamienil druzyny!
+TRANSFER_SWAP_TEAM_SUCCESS_CASE2 = [AMXX] ADMIN %s zamienil druzyny!
+TRANSFER_SWAP_TEAM_MESSAGE = [AMXX] Zamieniles druzyny
+TRANSFER_SWAP_PLAYERS_CONSOLE = [AMXX] Zamieniles %s z %s
+TRANSFER_PLAYER_ERROR_CASE1 = [AMXX] Nie mozesz zamieniac graczy, ktorzy sa w tej samej druzynie!
+TRANSFER_PLAYER_ERROR_CASE2 = [AMXX] Nie mozesz zamieniac graczy, ktorzy nie sa w zadnej druzynie!
+TRANSFER_SWAP_PLAYERS_MESSAGE1 = [AMXX] zostales zamieniony z %s
+TRANSFER_SWAP_PLAYERS_MESSAGE2 = [AMXX] Zostales zamieniony z %s
+TRANSFER_SWAP_TEAM_LOG = [AMX_Transfer] PRZENOSZENIE: ^"%s<%s>^" zamienil druzyny
+TRANSFER_SWAP_PLAYERS_LOG = [AMX_Transfer] PRZENOSZENIE: ^"%s<%s>^" zamienil ^"%s^" z ^"%s^"
+
+[de]
+TEAM_INVALID = [AMXX] Ungueltiges Team angegeben! Gueltige Teams sind: T, CT, Auto, Spec
+TRANSFER_PLAYER_CASE1 = [AMXX] ADMIN transferiert %s zu den %s Team erfolgreich
+TRANSFER_PLAYER_CASE2 = [AMXX] ADMIN %s transferiert %s zu den %s Team erfolgreich
+TRANSFER_PLAYER_TEAM = [AMXX] Sie wurden zu den %s Team transferiert
+TRANSFER_PLAYER_LOG = [AMX_Transfer] TEAMTRANSFER: ^"%s<%s>^" transferiert ^"%s^" zu den ^"%s^" Team
+TRANSFER_PLAYER_CONSOLE = [AMXX] %s Sie wurden erfolgreich transferiert zu den %s Team
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE1 = [AMXX] ADMIN vertauschte %s mit %s erfolgreich
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE2 = [AMXX] ADMIN %s vertauschte %s mit %s erfolgreich
+TRANSFER_SWAP_TEAM_SUCCESS_CASE1 = [AMXX] ADMIN vertauschte das Team erfolgreich!
+TRANSFER_SWAP_TEAM_SUCCESS_CASE2 = [AMXX] ADMIN %s vertauschte das Team erfolgreich!
+TRANSFER_SWAP_TEAM_MESSAGE = [AMXX] Das Team wurde vertauscht
+TRANSFER_SWAP_PLAYERS_CONSOLE = [AMXX] Erfolgreich %s mit %s vertauscht
+TRANSFER_PLAYER_ERROR_CASE1 = [AMXX] Sie koennen denn Spieler nicht eintauschen ist schon im gleichem Team!
+TRANSFER_PLAYER_ERROR_CASE2 = [AMXX] Sie koennen denn Spieler nicht eintauschen Sie sind nicht in einem Team!
+TRANSFER_SWAP_PLAYERS_MESSAGE1 = [AMXX] Sie wurden mit %s vertauscht
+TRANSFER_SWAP_PLAYERS_MESSAGE2 = [AMXX] Sie wurden mit %s vertauscht
+TRANSFER_SWAP_TEAM_LOG = [AMX_Transfer] TEAMTRANSFER: ^"%s<%s>^" vertauschte Teams
+TRANSFER_SWAP_PLAYERS_LOG = [AMX_Transfer] TEAMTRANSFER: ^"%s<%s>^" verschiebt ^"%s^" mit ^"%s^"
+
+[fr]
+TEAM_INVALID = [AMXX] Equipe invalide! Les equipes valides sont: T, CT, Auto, Spec
+TRANSFER_PLAYER_CASE1 = [AMXX] ADMIN Transfere reussi de %s dans l'equipe % 
+TRANSFER_PLAYER_CASE2 = [AMXX] ADMIN %s Transfere reussi de %s dans l'equipe %
+TRANSFER_PLAYER_TEAM = [AMXX] Tu a ete transfere dans l'equipe %
+TRANSFER_PLAYER_LOG = [AMX_Transfer] TEAMTRANSFER: ^"%s<%s>^" transfere ^"%^" dans l'equipe ^"%^"
+TRANSFER_PLAYER_CONSOLE = [AMXX] Tu a transfere avec succes % dans l'equipe %
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE1 = [AMXX] ADMIN Successfully swapped %s with %s
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE2 = [AMXX] ADMIN % Transfere reussi de % avec %
+TRANSFER_SWAP_TEAM_SUCCESS_CASE1 = [AMXX] ADMIN Transfere reussi entre les equipes!
+TRANSFER_SWAP_TEAM_SUCCESS_CASE2 = [AMXX] ADMIN % a ete transfere avec succes!
+TRANSFER_SWAP_TEAM_MESSAGE = [AMXX] Tu a ete transfere dans une autre equipe
+TRANSFER_SWAP_PLAYERS_CONSOLE = [AMXX] Transfere reussi de % avec %
+TRANSFER_PLAYER_ERROR_CASE1 = [AMXX] Tu ne peux pas transferer des joueurs qui sont dans la meme equipe!
+TRANSFER_PLAYER_ERROR_CASE2 = [AMXX] Tu ne peux pas transferer de joueurs qui sont dans la meme equipe!
+TRANSFER_SWAP_PLAYERS_MESSAGE1 = [AMXX] Tu as ete transfere avec les %
+TRANSFER_SWAP_PLAYERS_MESSAGE2 = [AMXX] Tu as ete echange avec les %
+TRANSFER_SWAP_TEAM_LOG = [AMX_Transfer] TEAMTRANSFER: ^"%s<%s>^" a echange les equipes
+TRANSFER_SWAP_PLAYERS_LOG = [AMX_Transfer] TEAMTRANSFER: ^"%s<%s>^" a echange ^"%s^" avec ^"%s^"
+
+[es]
+TEAM_INVALID = [AMXX] El Equipo escojido es Invalido! Los Equipos Disponibles son: T, CT, Auto, Espectador
+TRANSFER_PLAYER_CASE1 = [AMXX] ADMIN %s exitosamente transferido al Equipo %s
+TRANSFER_PLAYER_CASE2 = [AMXX] ADMIN %s exitosamente tranferido %s al Equipo %s
+TRANSFER_PLAYER_TEAM = [AMXX] Has sido tranferido al Equipo %s
+TRANSFER_PLAYER_LOG = [AMX_Transfer] TEAMTRANSFER: ^"%s<%s>^" transferido ^"%s^" al Equipo ^"%s^"
+TRANSFER_PLAYER_CONSOLE = [AMXX] %s, has sido Exitosamente Cambiado al Equipo %s
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE1 = [AMXX] ADMIN Exitosamente cambiado al Usuario %s con %s
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE2 = [AMXX] ADMIN %s Exitosamente cambiado %s con %s
+TRANSFER_SWAP_TEAM_SUCCESS_CASE1 = [AMXX] ADMIN Los Equipos han sido cambiados Exitosamente!
+TRANSFER_SWAP_TEAM_SUCCESS_CASE2 = [AMXX] ADMIN %s ha cambiado los Equipos!
+TRANSFER_SWAP_TEAM_MESSAGE = [AMXX] Has Cambiado los Equipos
+TRANSFER_SWAP_PLAYERS_CONSOLE = [AMXX] %s exitosamente cambiado con %s
+TRANSFER_PLAYER_ERROR_CASE1 = [AMXX] No puedes cambiar los jugadores que están en el mismo equipo!
+TRANSFER_PLAYER_ERROR_CASE2 = [AMXX] No puedes cambiar los jugadores que no estan en un Equipo Definido!
+TRANSFER_SWAP_PLAYERS_MESSAGE1 = [AMXX] Has sido cambiado con %s
+TRANSFER_SWAP_PLAYERS_MESSAGE2 = [AMXX] Has sido cambiado con %s
+TRANSFER_SWAP_TEAM_LOG = [AMX_Transfer] TEAMTRANSFER: ^"%s<%s>^" cambio los Equipos
+TRANSFER_SWAP_PLAYERS_LOG = [AMX_Transfer] TEAMTRANSFER: ^"%s<%s>^" cambio ^"%s^" con ^"%s^"
+
+[sv]
+TEAM_INVALID = [AMXX] Ogiltig grupp anges! Giltiga grupper: T, CT, Auto, Spec
+TRANSFER_PLAYER_CASE1 = [AMXX] ADMIN 'O'verf'o'rde framgangsrikt %s till %s
+TRANSFER_PLAYER_CASE2 = [AMXX] ADMIN %s 'O'verf'o'rde %s till %s framgangsrikt.
+TRANSFER_PLAYER_TEAM = [AMXX] Du har blivit 'o'verf'o'rd till %s
+TRANSFER_PLAYER_LOG = [AMX_Transfer] Lag'o'verf'o'ring: ^"%s<%s>^" 'o'verf'o'rde ^"%s^" till ^"%s^"
+TRANSFER_PLAYER_CONSOLE = [AMXX] Du har 'o'verf'o'rt %s till %s framgangsrikt.
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE1 = [AMXX] ADMIN Bytte ut %s med %s framgangsrikt
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE2 = [AMXX] ADMIN %s Bytte ut %s med %s framgangsrikt
+TRANSFER_SWAP_TEAM_SUCCESS_CASE1 = [AMXX] ADMIN 'A'ndrade lagen framgangsrikt!
+TRANSFER_SWAP_TEAM_SUCCESS_CASE2 = [AMXX] ADMIN %s 'A'ndrade lagen framgangsrikt!
+TRANSFER_SWAP_TEAM_MESSAGE = [AMXX] Du bytte ut lagen.
+TRANSFER_SWAP_PLAYERS_CONSOLE = [AMXX] Bytte %s med %s framgangsrikt
+TRANSFER_PLAYER_ERROR_CASE1 = [AMXX] Du kan inte byta plats pa spelare i samma lag!
+TRANSFER_PLAYER_ERROR_CASE2 = [AMXX] Du kan inte byta plats pa spelare som inte 'a'r i samma lag!
+TRANSFER_SWAP_PLAYERS_MESSAGE1 = [AMXX] Du har blivit utbytt med %s
+TRANSFER_SWAP_PLAYERS_MESSAGE2 = [AMXX] Du har blivit utbytt med %s
+TRANSFER_SWAP_TEAM_LOG = [AMX_Transfer] Lag'o'verf'o'ring: ^"%s<%s>^" 'a'ndrade lagen
+TRANSFER_SWAP_PLAYERS_LOG = [AMX_Transfer] Lag'o'verf'o'ring: ^"%s<%s>^" bytte ^"%s^" med ^"%s^"
+
+[nl]
+TEAM_INVALID = [AMXX] Onbekend team opgegeven! Geldige teams zijn: T, CT, Auto, Spec
+TRANSFER_PLAYER_CASE1 = [AMXX] ADMIN transformeerde %s succesvol naar het %s team
+TRANSFER_PLAYER_CASE2 = [AMXX] ADMIN %s transformeerde %s succesvol naar het %s team
+TRANSFER_PLAYER_TEAM = [AMXX] Je bent getransformeerd naar het %s team
+TRANSFER_PLAYER_LOG = [AMX_Transfer] TEAMTRANSFORMATIE: ^"%s<%s>^" transformeerde ^"%s^" naar het ^"%s^" team
+TRANSFER_PLAYER_CONSOLE = [AMXX] Je hebt %s succesvol naar het %s team getransformeerd
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE1 = [AMXX] ADMIN verwisselde %s succesvol met %s
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE2 = [AMXX] ADMIN %s verwisselde %s succesvol met %s
+TRANSFER_SWAP_TEAM_SUCCESS_CASE1 = [AMXX] ADMIN verwisselde de twee teams succesvol!
+TRANSFER_SWAP_TEAM_SUCCESS_CASE2 = [AMXX] ADMIN %s verwisselde de twee teams succesvol!
+TRANSFER_SWAP_TEAM_MESSAGE = [AMXX] Je hebt de teams verwisseld
+TRANSFER_SWAP_PLAYERS_CONSOLE = [AMXX] Verwisselde %s succesvol met %s
+TRANSFER_PLAYER_ERROR_CASE1 = [AMXX] Je kan geen spelers verwisselen die in hetzelfde team zijn!
+TRANSFER_PLAYER_ERROR_CASE2 = [AMXX] Je kan geen spelers verwisselen die niet in een team zijn!
+TRANSFER_SWAP_PLAYERS_MESSAGE1 = [AMXX] Je bent verwisseld met %s
+TRANSFER_SWAP_PLAYERS_MESSAGE2 = [AMXX] Je bent verwisseld met %s
+TRANSFER_SWAP_TEAM_LOG = [AMX_Transfer] TEAMTRANSFORMATIE: ^"%s<%s>^" verwisselde de teams
+TRANSFER_SWAP_PLAYERS_LOG = [AMX_Transfer] TEAMTRANSFORMATIE: ^"%s<%s>^" verwisselde ^"%s^" met ^"%s^"
+
+[ru]
+TEAM_INVALID = [AMXX] Не правельно указана команда! Команды для ввода: T, CT, Auto, Spec
+TRANSFER_PLAYER_CASE1 = [AMXX] Админ успешно переместил %s в %s команду
+TRANSFER_PLAYER_CASE2 = [AMXX] Админ %s успешно переместил %s в %s команду
+TRANSFER_PLAYER_TEAM = [AMXX] Вы будите перемещены за %s команду
+TRANSFER_PLAYER_LOG = [AMX_Transfer] TEAMTRANSFER: ^"%s<%s>^" перевёл ^"%s^" в ^"%s^" команду
+TRANSFER_PLAYER_CONSOLE = [AMXX] Вы успешно переместили %s в %s команду
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE1 = [AMXX] Админ успешно поменял %s с %s
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE2 = [AMXX] Админ %s успешно поменял %s с %s
+TRANSFER_SWAP_TEAM_SUCCESS_CASE1 = [AMXX] Админ успешно поменял команды!
+TRANSFER_SWAP_TEAM_SUCCESS_CASE2 = [AMXX] Админ %s успешно поменял команды!
+TRANSFER_SWAP_TEAM_MESSAGE = [AMXX] Вы смените команды
+TRANSFER_SWAP_PLAYERS_CONSOLE = [AMXX] Успешно поменяли %s с %s
+TRANSFER_PLAYER_ERROR_CASE1 = [AMXX] Вы не можете поменять игроков, которые находяться в одной команде!
+TRANSFER_PLAYER_ERROR_CASE2 = [AMXX] Вы не можете менять игроков которые не в команде!
+TRANSFER_SWAP_PLAYERS_MESSAGE1 = [AMXX] Вы поменяли с %s
+TRANSFER_SWAP_PLAYERS_MESSAGE2 = [AMXX] Вы поменяетесь с %s
+TRANSFER_SWAP_TEAM_LOG = [AMX_Transfer] TEAMTRANSFER: ^"%s<%s>^" поменял команды
+TRANSFER_SWAP_PLAYERS_LOG = [AMX_Transfer] TEAMTRANSFER: ^"%s<%s>^" поменяли ^"%s^" с ^"%s^"
+
+[cn]
+TEAM_INVALID = [AMXX] 指定队伍无效！有效的队伍为：T, CT, Spec, Auto
+TRANSFER_PLAYER_CASE1 = [AMXX] 管理员成功将 %s 转移到 %s
+TRANSFER_PLAYER_CASE2 = [AMXX] 管理员 %s 成功转移 %s 到 %s
+TRANSFER_PLAYER_TEAM = [AMXX] 您已被转移到 %s
+TRANSFER_PLAYER_LOG = [AMX_Transfer] 队伍转移: ^"%s<%s>^" 转移 ^"%s^" 到 ^"%s^"
+TRANSFER_PLAYER_CONSOLE = [AMXX] 你成功转移 %s 到 %s
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE1 = [AMXX] 管理员成功交换 %s 与 %s
+TRANSFER_SWAP_PLAYERS_SUCCESS_CASE2 = [AMXX] 管理员 %s 成功交换 %s 与 %s
+TRANSFER_SWAP_TEAM_SUCCESS_CASE1 = [AMXX] 管理员成功交换队伍!
+TRANSFER_SWAP_TEAM_SUCCESS_CASE2 = [AMXX] 管理员 %s 成功交换队伍!
+TRANSFER_SWAP_TEAM_MESSAGE = [AMXX] 您已被转移队伍
+TRANSFER_SWAP_PLAYERS_CONSOLE = [AMXX] 成功交换 %s 与 %s
+TRANSFER_PLAYER_ERROR_CASE1 = [AMXX] 您不能在同一队伍中互换玩家！
+TRANSFER_PLAYER_ERROR_CASE2 = [AMXX] 您不能在不同的队伍中互换玩家！
+TRANSFER_SWAP_PLAYERS_MESSAGE1 = [AMXX] 您已与 %s 互换位置
+TRANSFER_SWAP_PLAYERS_MESSAGE2 = [AMXX] 您已与 %s 互换位置
+TRANSFER_SWAP_TEAM_LOG = [AMX_Transfer] 队伍转移: ^"%s<%s>^" 交换队伍
+TRANSFER_SWAP_PLAYERS_LOG = [AMX_Transfer] 队伍转移: ^"%s<%s>^" 交换 ^"%s^" 与 ^"%s^" 

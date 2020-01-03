@@ -1,0 +1,13 @@
+awp_zigzag - AWP Map
+
+Author:				Æ Mapping
+
+Helpers:			Snoop Marky Mark
+
+Terrorist mission:		AWP the Counter-Terrorists
+
+Counter-Terrorist mission:	AWP the Terrorists
+
+Other Notes: 		None.
+
+(Press FIRE to continue)

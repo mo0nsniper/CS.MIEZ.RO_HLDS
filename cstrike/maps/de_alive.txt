@@ -1,0 +1,9 @@
+de_alive - Bomb/Defuse
+Map is made by Tonight /A/
+Spawns: 24
+Plants: 2
+
+Special thanks to:
+Alive - testing
+
+Visit http://familyvastaneliit.forum.co.ee

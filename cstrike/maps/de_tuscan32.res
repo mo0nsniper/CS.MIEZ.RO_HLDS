@@ -1,0 +1,9 @@
+maps/de_tuscan32.res
+gfx/env/dustbk.tga
+gfx/env/dustdn.tga
+gfx/env/dustft.tga
+gfx/env/dustlf.tga
+gfx/env/dustrt.tga
+gfx/env/dustup.tga
+overviews/de_tuscan.bmp
+overviews/de_tuscan.txt

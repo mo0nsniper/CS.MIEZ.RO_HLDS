@@ -1,0 +1,12 @@
+gfx/env/bahrainup.tga
+gfx/env/bahraindn.tga
+gfx/env/bahrainlf.tga
+gfx/env/bahrainrt.tga
+gfx/env/bahrainft.tga
+gfx/env/bahrainbk.tga
+maps/de_bahrain.res
+maps/de_bahrain.txt
+sound/bahrain/gulls.wav
+sound/bahrain/harbor.wav
+sound/bahrain/pray.wav
+sound/bahrain/bell.wav

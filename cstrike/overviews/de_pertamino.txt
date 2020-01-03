@@ -1,0 +1,15 @@
+// overview description file for de_pertamino
+
+global 
+{
+	ZOOM	1.25
+	ORIGIN	84.00 147.00 -65.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_pertamino.bmp"
+	HEIGHT	-65.00
+}
+

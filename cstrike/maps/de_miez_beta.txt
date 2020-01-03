@@ -1,0 +1,20 @@
+MIEZ (Bomb Defuse)
+by Tatu Eugen
+
+Custom map for MIEZ.ro Community,
+map is about a public building 
+where TS must plant the bomb in one of two 
+bombsites. CT Must stop them!
+
+Counter-Terrorists: Prevent the terrorists
+from destroying the building.
+
+Terrorists: Destroy the building in one of two bombsites.
+
+Other Notes: There are 2 bomb sites in this 
+mission.
+
+Development: Original plan and textures.
+
+*** CS.MIEZ.RO ***
+*** WWW.MIEZ.RO ***

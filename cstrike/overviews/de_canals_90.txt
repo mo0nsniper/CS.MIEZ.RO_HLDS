@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.58
+	ORIGIN	-281.72 976.12 128.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_canals_90.tga"
+	HEIGHT	-680.00
+}

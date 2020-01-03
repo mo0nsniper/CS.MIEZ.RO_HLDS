@@ -1,0 +1,11 @@
+[- CS.INTERCONNECT.RO -]
+
+Forum : www.f-it.tk
+
+
+Alianta : [- vTn.InterConnecT.Ro -]
+
+
+Forum : www.f-it.tk
+
+exec cfglist/de_bose.cfg

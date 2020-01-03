@@ -1,0 +1,14 @@
+// overview description file for de_shorty.bsp
+
+global 
+{
+	ZOOM	1.38
+	ORIGIN	808 	600	254
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_shorty.bmp"
+	HEIGHT	-393
+}

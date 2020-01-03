@@ -1,0 +1,6 @@
+de_dust2_2013 bomb/defuse
+map remake by sakalkv  (sakalsakalic@gmail.com)       
+
+	de_dust2 originally autor daveJ
+
+			(Press FIRE to continue)

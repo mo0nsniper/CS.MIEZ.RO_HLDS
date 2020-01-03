@@ -1,0 +1,24 @@
+Templum -Bomb/Defuse-
+
+by Tatu Eugen (www.tatueugen.info)
+
+Terrorist must destroy one of the old bomb sites
+every bomb site have a specific 
+stuff from old temple.
+
+Counter-Terrorists: Prevent the terrorists
+from destroying the bomb sites.
+
+Terrorists: Destroy one of the bomb sites.
+
+Other Notes: There are 2 bomb sites in this 
+mission.
+
+Sbybox by kk3d.de
+Textures by Valve/TE
+Models and others by CS Community
+
+---
+
+Have Fun
+www.tatueugen.info

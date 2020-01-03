@@ -1,0 +1,14 @@
+// overview description file for de_csmport.bsp
+
+global 
+{
+	ZOOM	1.12
+	ORIGIN	252 	632	-265
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_csmport.bmp"
+	HEIGHT	-265
+}

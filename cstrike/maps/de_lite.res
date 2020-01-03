@@ -1,0 +1,10 @@
+gfx/env/skytedup.tga
+gfx/env/skytedrt.tga
+gfx/env/skyteddn.tga
+gfx/env/skytedlf.tga
+gfx/env/skytedbk.tga
+gfx/env/skytedft.tga
+maps/de_lite.txt
+maps/de_lite.res
+overviews/de_lite.bmp
+overviews/de_lite.txt

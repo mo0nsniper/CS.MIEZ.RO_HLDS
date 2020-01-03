@@ -1,0 +1,13 @@
+HOTPOINT (v1.0) - Defuse
+by ~Smith~
+
+Counter-terrorists: Prevent Terrorists from
+bombing magazine and police departament.
+
+Terrorists: Bomb police departament or magazine.
+
+
+Background: There are 2 targets 
+in this mission.
+
+Other Notes: MADE IN RUSSIA!

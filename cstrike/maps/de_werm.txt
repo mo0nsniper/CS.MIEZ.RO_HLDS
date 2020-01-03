@@ -1,0 +1,12 @@
+Werm - Bomb/Defuse
+by wicKed/ShendriT (http://gamebanana.com/members/237907)
+
+NAV Mesh Modifications by Navigation (http://gamebanana.com/members/1561049)
+
+Counter-Terrorists: Prevent Terrorists from bombing any of the bombsites. Team members must defuse any bombs that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the C4 must plant it in one of the two bombsites. 
+
+Other Notes: There are 2 bombsites in the mission.
+
+(Press FIRE to continue)

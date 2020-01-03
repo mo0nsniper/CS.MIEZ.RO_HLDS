@@ -1,0 +1,14 @@
+// overview description file for de_somewhere_clean
+
+global 
+{
+	ZOOM	1.54
+	ORIGIN	-720 	80	-92
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_somewhere_clean.bmp"
+	HEIGHT	-1110
+}

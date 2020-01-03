@@ -1,0 +1,6 @@
+models/css_miragewinter_go/awning.mdl
+models/css_miragewinter_go/bigtree.mdl
+models/css_miragewinter_go/deadtree.mdl
+models/css_miragewinter_go/snowman.mdl
+models/css_miragewinter_go/snowman2.mdl
+maps/css_miragewinter_go.res

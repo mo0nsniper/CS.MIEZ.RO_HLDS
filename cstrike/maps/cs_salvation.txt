@@ -1,0 +1,12 @@
+cs_salvation - Hostage/Rescue
+
+by Tatu Eugen (www.tatueugen.info)
+The terrorist team captured 3 hostages in life,
+they put in his own house and watched for a price.
+The Counter-Terrorist team is send to save all hostages in life.
+
+The house wich is the base of terrorist team, have 5 ways to enter.
+Save all hostages and bring back in counter-terrorist base.
+
+Bug Reports: contact@tatueugen.info
+Have fun!

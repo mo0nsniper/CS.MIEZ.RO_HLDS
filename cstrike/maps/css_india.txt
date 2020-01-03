@@ -1,0 +1,15 @@
+CSS_INDIA (Sniper War)
+
+Map created by Tatu Eugen - www.tatueugen.info
+
+A sniper war map, recreated after awp_india from
+CS: Source game, map have the most things from css,
+without models and effects. Have Fun!
+
+Textures:
+Valve (CS:S Game)
+Tatu Eugen
+
+Original India Authors:
+Head-Cracker
+Johan Fasting

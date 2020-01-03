@@ -1,0 +1,10 @@
+CSS_VIETNAM (Sniper War)
+by Tatu Eugen - www.tatueugen.info
+
+Vietnam - Arctic Warfare Police Kill your enemies using 
+the weapon Arctic Warfare Police (AWP) or a Knife.
+Based on the map awp_india from Johan Fasting.
+
+Original map by warluthy
+from CS:GO to CS 1.6 Remake
+

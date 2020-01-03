@@ -1,0 +1,14 @@
+CSS_BYCASTOR2 (Sniper War)
+by Tatu Eugen - www.tatueugen.info
+
+***Winter Version***
+Bug report: contact@tatueugen.info
+Remake after original map with new textures
+and some new things.
+
+- 32 Players
+- 3 Hegrenades inside
+- Awp, Knife, Default pistols
+
+Original Author:
+Castor Troy

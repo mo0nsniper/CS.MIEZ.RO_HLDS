@@ -1,0 +1,14 @@
+// overview description file for de_suntower.bsp by C3RBERUS
+
+global 
+{
+	ZOOM	1.64
+	ORIGIN	-482 -274 -257
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_suntower.bmp"
+	HEIGHT	-257
+}

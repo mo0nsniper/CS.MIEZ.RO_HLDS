@@ -1,0 +1,13 @@
+DUSTALL (v2.0) - Defuse
+by ~Smith~
+
+Counter-terrorists: Prevent Terrorists from
+bombing temple and helicopter.
+
+Terrorists: Bomb temple or helicopter.
+
+
+Background: There are 2 targets 
+in this mission.
+
+Other Notes: MADE IN RUSSIA!

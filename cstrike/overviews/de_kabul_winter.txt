@@ -1,0 +1,14 @@
+// overview description file for de_kabul_winter.bsp
+
+global
+{
+	ZOOM		1.64
+	ORIGIN		676	-688	-97
+	ROTATED		1
+}
+
+layer
+{
+	IMAGE		"overviews/de_kabul_winter.bmp"
+	HEIGHT		-97
+}

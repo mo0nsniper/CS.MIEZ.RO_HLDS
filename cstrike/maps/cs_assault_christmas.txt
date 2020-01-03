@@ -1,0 +1,5 @@
+cs_assault_christmas: A remake of cs_assault
+Made By: Symmetry
+Real Name: Fredrik 
+Location: Sweden
+Site: www.symmetry-mapper.tk

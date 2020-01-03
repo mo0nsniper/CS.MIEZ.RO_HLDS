@@ -1,0 +1,8 @@
+awp_buddha (Sniper War)
+
+by Tatu Eugen - www.tatueugen.info
+
+A sniper map, only with sniper and knife. No buyzone for any teams.
+Clasic map, with 2 models, 32 players max. 800 w_polly max.
+
+Have fun!

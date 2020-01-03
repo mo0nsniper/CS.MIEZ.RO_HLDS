@@ -1,0 +1,11 @@
+awp_defeat (Sniper War)
+
+by Tatu Eugen (www.tatueugen.info)
+
+A large map for sniper war, with an subteran area,
+who have 2 ways, left and right, every base have an entry underground.
+In middle of the map is an old building, can use for kill enemies, 
+you can go up on the building, all players start with awp and deagle.
+Map for 32 players, bug reports: contact@tatueugen.info
+
+Have fun!

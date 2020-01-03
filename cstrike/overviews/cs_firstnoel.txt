@@ -1,0 +1,14 @@
+// overview description file for de_xmasdust.bsp
+
+global 
+{
+	ZOOM	1.47
+	ORIGIN	884 614.20 211
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_firstnoel.bmp"
+	HEIGHT	-134
+}

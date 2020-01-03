@@ -1,0 +1,9 @@
+gfx/env/sky32up.tga
+gfx/env/sky32dn.tga
+gfx/env/sky32lf.tga
+gfx/env/sky32rt.tga
+gfx/env/sky32ft.tga
+gfx/env/sky32bk.tga
+overviews/de_dust2014_r2.txt
+overviews/de_dust2014_r2.bmp
+maps/de_dust2014_r2.res

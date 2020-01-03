@@ -1,0 +1,12 @@
+models/css_vietnam/forest_tree.mdl
+models/css_vietnam/hut_smallclosed.mdl
+models/css_vietnam/jungle_tree.mdl
+models/css_vietnam/tower_guard.mdl
+models/css_vietnam/wood_fence.mdl
+gfx/env/junglebk.tga
+gfx/env/jungledn.tga
+gfx/env/jungleft.tga
+gfx/env/junglelf.tga
+gfx/env/junglert.tga
+gfx/env/jungleup.tga
+maps/css_vietnam_sky.res

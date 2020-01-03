@@ -1,0 +1,14 @@
+
+global
+{
+	ZOOM	-1.05
+	ORIGIN	65.02	-619.97	 160
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE "overviews/cs_terrordrome.tga"
+	HEIGHT	-159
+}
+

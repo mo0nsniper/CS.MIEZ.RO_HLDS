@@ -1,0 +1,21 @@
+de_pgl (Bomb/Defuse)
+---
+by Tatu Eugen (www.tatueugen.info)
+Version 1.0 Public Beta 1
+
+Map for
+Professional Gamer League - www.pgl.ro
+Map created for wars of Counter-Strike
+Many areas and layout for players of clans
+---
+Counter-Terrorists: Prevent Terrorists
+from bombing the old city. The 
+mission can be targeted from above and
+below. Team members must defuse any 
+bombs that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the old city.
+
+Other Notes: There are 2 targets 
+in this mission.

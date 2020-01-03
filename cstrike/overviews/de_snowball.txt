@@ -1,0 +1,14 @@
+//overview description file for de_snowball.bsp
+
+global
+{
+	ZOOM	1.58
+	ORIGIN	-149.94         94 	     -16
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	"overviews/de_snowball.tga"
+	HEIGHT	-394
+} 

@@ -1,0 +1,12 @@
+de_csmport - Bomb/Defuse
+Map by Pavel Nakhaev AKA Blupish
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the lethal weapon on 
+train. Team members must defuse bomb.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy train with lethal weapon. 
+
+Other Notes: There is ONE bomb-place in the mission.
+

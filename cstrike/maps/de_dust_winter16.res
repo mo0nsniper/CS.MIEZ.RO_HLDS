@@ -1,0 +1,15 @@
+halflife.wad
+gfx/env/arcnup.tga
+gfx/env/arcndn.tga
+gfx/env/arcnlf.tga
+gfx/env/arcnrt.tga
+gfx/env/arcnft.tga
+gfx/env/arcnbk.tga
+models/metalplategibs_green.mdl
+sprites/laserbeam.spr
+sprites/glow01.spr
+models/snowman.mdl
+sound/windsnow2.wav
+sound/ambience/arabmusic.wav
+overviews/de_dust_winter16.bmp
+overviews/de_dust_winter16.txt

@@ -1,0 +1,14 @@
+// overview description file for de_nuke2x2.bsp
+
+global
+{
+	ZOOM	1.84
+	ORIGIN	248	96	-160
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE	"overviews/de_nuke2x2.bmp"
+	HEIGHT	-160
+}

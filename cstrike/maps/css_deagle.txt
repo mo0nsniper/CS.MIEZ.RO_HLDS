@@ -1,0 +1,9 @@
+CSS_DEAGLE (Deagle War)
+
+by Tatu Eugen (www.tatueugen.info
+
+This map was remaked after aim_deagle7k from CS:S
+Map for 32 players, only deagle and knife, no buyzone.
+
+Original AUthor: Razo18
+Textures by Valve

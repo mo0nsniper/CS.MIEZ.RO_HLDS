@@ -1,0 +1,19 @@
+Inferno - Defusion
+by Chris Auty (Barney) (narby@counter-strike.net)
+Texture builds by Valve software
+
+De Inferno Snow  Remake- Bomb/Defuse
+by chaosmedia90@hotmail.com
+
+
+Counter-Terrorists: Prevent Terrorists
+from bombing chemical weapon crates.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the chemical 
+weapon stashes. 
+
+Other Notes: There are 2 chemical 
+weapon stashes in the mission.

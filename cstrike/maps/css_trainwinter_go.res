@@ -1,0 +1,6 @@
+models/css_trainwinter_go/AF_chim_high.mdl
+models/css_trainwinter_go/pole1.mdl
+models/css_trainwinter_go/pole2.mdl
+models/css_trainwinter_go/snowman2.mdl
+models/css_trainwinter_go/tree_dead_snow.mdl
+maps/css_trainwinter_go.res

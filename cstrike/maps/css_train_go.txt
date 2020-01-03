@@ -1,0 +1,22 @@
+CSS_TRAIN_GO (Bomb/Defuse)
+by Tatu Eugen - www.tatueugen.info
+
+About Train
+--------------------
+Train (de_train) is a bomb defusal map featured in Counter-Strike, Counter-Strike: Source, and Counter-Strike: Global Offensive.
+
+Mission
+------------
+Counter-Terrorists: Prevent Terrorists from bombing the nuclear payloads on two trains. Team members must defuse any bombs that threaten the payloads.
+
+Terrorists: The Terrorist carrying the C4 must destroy one of the payloads.
+
+Other Notes: There are 2 payloads on the trains in the mission.
+
+Credits
+-----------
+CS:GO Remake:
+Valve
+
+Original Train Author:
+Christopher Mair

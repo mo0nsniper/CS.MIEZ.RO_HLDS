@@ -1,0 +1,14 @@
+// overview description file for de_plaka.bsp
+
+global
+{
+      ZOOM       1.20
+      ORIGIN       113.77        -283.19       -1419.00
+       ROTATED       90
+}
+
+layer 
+{
+       IMAGE       "overviews/de_plaka.bmp"
+       HEIGHT       -1419.00
+}

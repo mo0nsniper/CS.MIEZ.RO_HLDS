@@ -1,0 +1,13 @@
+// overview description file for de_complex.txt
+global 
+{
+	ZOOM	1.32
+	ORIGIN	-512 -26 -321
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_complex.bmp"
+	HEIGHT	-720
+}

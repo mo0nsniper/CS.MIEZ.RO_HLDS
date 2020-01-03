@@ -1,0 +1,8 @@
+de_achmed - Bomb/Defuse
+
+by Tatu Eugen - www.tatueugen.info
+
+Action is in war streets, ts need to plant or kill al cts and cts need to stay in 
+x1 and x2 or kill all ts.
+
+ENJOY

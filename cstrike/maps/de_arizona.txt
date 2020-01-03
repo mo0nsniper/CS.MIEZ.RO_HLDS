@@ -1,0 +1,24 @@
+Arizona - Bomb/Defuse
+by Atomfried (fredi@cs.pocnet.net)
+www.atomfried.daddeln.de
+
+----------------------------------------
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the dinosaur skeleton or the
+maintenance building. 
+Team members must defuse any 
+bombs that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the dinosaur skeleton or
+the maintenance building.
+
+Other Notes: There are 2 targets and
+20 player-starts in this mission. 
+
+----------------------------------------
+
+THX to [RG]BadGirl
+     & TheDoenerking
+     & ]d*C[Profiler[EF]

@@ -1,0 +1,17 @@
+Tropical Heat - Bomb/Defuse
+by [Hijack]MoCo (moco2k@gmx.net)
+www.moco2k.de / www.hijackcrew.de
+
+Counter-Terrorists: Prevent Terrorists
+from bombing chemical weapon crates.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the chemical 
+weapon stashes. 
+
+Other Notes: There are 2 chemical 
+weapon stashes in the mission. 
+
+(Press FIRE to continue)

@@ -1,0 +1,14 @@
+// overview description file for awp_winter.bsp
+
+global 
+{
+	ZOOM	2.67
+	ORIGIN	300.92 	728.22	-408.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/awp_winter.tga"
+	HEIGHT	-865.00
+}

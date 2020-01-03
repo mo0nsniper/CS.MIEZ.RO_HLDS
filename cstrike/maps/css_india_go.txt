@@ -1,0 +1,19 @@
+CSS_INDIA_GO (Sniper War)
+
+by Tatu Eugen (www.tatueugen.info)
+
+A map recreated after awp_india from CS:GO.
+Any ideas and bugs please report at mail adress: contact@tatueugen.info
+
+Textures:
+Valve
+
+Design CS:GO Map:
+Navigator-72
+
+Original India Author:
+Johan Fasting
+
+Version 1.1
+- Changed lights
+- Added Dust Sky

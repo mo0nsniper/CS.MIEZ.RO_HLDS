@@ -1,0 +1,27 @@
+CSS_ASSAULT2 (Hostage Rescue)
+
+Map created by Tatu Eugen - www.tatueugen.info
+
+This map is a remake after css_assault 
+wich have new things, new areas, and is a lot smaller.
+
+Any ideas and bugs please report at mail adress:
+contact@tatueugen.info 
+
+Counter-Terrorists: Rescue the hostages. 
+Take out the Terrorists without jeopardizing 
+the hostages. 
+
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages. Use
+whatever force needed.
+
+Other Notes: There are 4 hostages in 
+the mission. Rescue them!
+
+Textures:
+Valve (CS:S Game)
+Tatu Eugen
+
+Original Assault Author:
+CryptR

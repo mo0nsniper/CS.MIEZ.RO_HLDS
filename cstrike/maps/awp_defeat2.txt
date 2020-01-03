@@ -1,0 +1,13 @@
+awp_defeat2 (Sniper War)
+
+by Tatu Eugen (www.tatueugen.info)
+
+Version 1.1
+awp_defeat2 is a small modiffication with day light from night.
+A large map for sniper war, with an subteran area,
+who have 2 ways, left and right, every base have an entry underground.
+In middle of the map is an old building, can use for kill enemies, 
+you can go up on the building, all players start with awp and deagle.
+Map for 32 players, bug reports: contact@tatueugen.info
+
+Have fun!

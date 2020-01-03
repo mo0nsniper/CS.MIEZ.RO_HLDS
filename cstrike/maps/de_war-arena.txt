@@ -1,0 +1,22 @@
+War-Arena - Bomb/Defuse
+
+by Tatu Eugen (www.tatueugen.info)
+
+An city is evacuated after a terrorist escape from jail,
+and attacked the city with his friends, 
+after attack they destroy the bank and the bank car, but they are back
+to steal the safe-deposit with all money inside from bank. 
+A swat team is called by government to save the safe-deposit. 
+Be careful the terrorist team want to destroy the police station also.
+
+Counter-Terrorists: Prevent the terrorists
+from destroying the bank or police station.
+
+Terrorists: Destroy the bank or police station.
+
+Other Notes: There are 2 bomb sites in this 
+mission.
+
+Bug Reports: contact@tatueugen.info
+Map was created for War-Arena.ro
+Have fun!

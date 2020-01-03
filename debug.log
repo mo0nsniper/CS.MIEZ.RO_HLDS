@@ -1,0 +1,5 @@
+----------------------------------------------
+CRASH: Thu Jan  2 13:21:25 EET 2020
+Start Line: ./hlds_linux -noipx -tos -pingboost 3 -heapsize 250000 -zone 8192 -secure -autoupdate -pidfile /home/games/cs-miez/pid -game cstrike -strictportbind -port 27015 +clientport 27005 +ip 94.176.2.13 +maxplayers 25 +map fy_snow
+End of crash report
+----------------------------------------------

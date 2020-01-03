@@ -1,0 +1,10 @@
+de_pglzone - Bomb/Defuse
+
+Map created by Tatu Eugen
+www.tatueugen.info
+
+32 Players
+Custom Models
+Custom Textures
+
+Map for PGLZone !

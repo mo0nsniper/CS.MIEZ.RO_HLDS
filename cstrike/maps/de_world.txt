@@ -1,0 +1,12 @@
+de_world - Bomb Defuse
+
+Map created by Tatu Eugen - www.tatueugen.info
+
+32 Players
+
+2 Bomb Site, x1 and x2. TERO must plant the bomb in x1 or x2.
+CT must stop TERO of planting and kill them all.
+
+Map for World Server !
+
+Enjoy :)

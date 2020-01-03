@@ -1,0 +1,13 @@
+gfx/env/cretebk.tga
+gfx/env/cretedn.tga
+gfx/env/creteft.tga
+gfx/env/cretelf.tga
+gfx/env/cretert.tga
+gfx/env/creteup.tga
+maps/de_crete_b2.res
+maps/de_crete_b2.txt
+models/de_crete_b2/crete_tree1.mdl
+models/de_crete_b2/seagull2.mdl
+models/de_crete_b2/seagull.mdl
+sound/de_crete_b2/crete_seagulls.wav
+sound/de_crete_b2/crete_waves.wav

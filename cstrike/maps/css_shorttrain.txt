@@ -1,0 +1,31 @@
+CSS_SHORTTRAIN (Bomb/Defuse)
+
+Map created by Tatu Eugen - www.tatueugen.info
+
+This map is a remake from css_train,
+remaked after source with improvments.
+
+Any ideas and bugs please report at mail adress:
+contact@tatueugen.info 
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the nuclear payload on one
+train. Team members must defuse any 
+bomb that threaten the payload.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the payload. 
+
+Other Notes: There are 1 payload on the
+trains in the mission.
+
+Textures:
+Valve (CS:S Game)
+Tatu Eugen
+
+Original Train Author:
+Christopher Mair
+
+=================
+Version 1.1
+Fixed Stuck CT Player Spawn

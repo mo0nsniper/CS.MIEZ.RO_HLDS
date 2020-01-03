@@ -1,0 +1,16 @@
+// overview description file for de_clear.bsp
+
+global 
+{
+	ZOOM	1.88
+	ORIGIN	615.50	219.63	-336.50
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_clear.bmp"
+	HEIGHT	-690.00
+}
+
+ 

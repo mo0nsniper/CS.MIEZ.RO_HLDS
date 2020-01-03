@@ -1,0 +1,14 @@
+// overview description file for de_hotpoint.bsp
+
+global 
+{
+	ZOOM	0.76
+	ORIGIN	-256.25	0.19 -176
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_hotpoint.bmp"
+	HEIGHT	-176
+}

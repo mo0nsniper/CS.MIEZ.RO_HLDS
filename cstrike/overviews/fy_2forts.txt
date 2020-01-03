@@ -1,0 +1,14 @@
+//overview description file for fy_2forts.bsp
+
+global
+{
+	ZOOM	4.13
+	ORIGIN	352           16          -400
+	ROTATED 1
+}
+
+layer
+{
+	IMAGE	"overviews/fy_2forts.bmp"
+	HEIGHT	-1121
+} 

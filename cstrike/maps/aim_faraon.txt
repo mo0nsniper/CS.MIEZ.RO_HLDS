@@ -1,0 +1,9 @@
+aim_faraon (Combat Skill)
+
+by Tatu Eugen - www.tatueugen.info
+
+A simple map for combat skill, started with deagle, ak47 and m4a1.
+No buyzone in map.
+32 Players.
+
+Have fun!

@@ -1,0 +1,18 @@
+Kabul - Bomb/Defuse
+By Machine
+textures by Machine (www.machines-me.cjb.net)
+Winter version by irq433
+
+Counter-Terrorists: Prevent Terrorists
+from bombing chemical weapon crates.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy 1 of the chemical 
+weapon stashes. 
+
+Other Notes: There are 2 chemical 
+weapon stashes in the mission. 
+
+(Press FIRE to continue)

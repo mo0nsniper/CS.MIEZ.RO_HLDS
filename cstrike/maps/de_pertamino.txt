@@ -1,0 +1,13 @@
+Pertamino - Bomb/Defuse
+by SleekNut
+
+One day, an oil company decided to raise the price of gasoline and LPG. All of people angry with that. To make even worse, a terrorist group decided to blow up one of the gas station and a truck carrying LPG.
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the gas station & the truck. Team members must defuse any bombs that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the gas station or the truck.
+
+Other Notes: There are 2 bomb targets
+in the mission.

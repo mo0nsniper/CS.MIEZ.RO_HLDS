@@ -1,0 +1,44 @@
+MAX - Hostage Rescue Map
+===========================
+by SkullHozer (Ruandré Jv Rensburg)
+===========================
+
+Counter-Terrorists:
+***
+Rescue the hostages.
+Take out the Terrorists without jeopardizing
+the hostages.
+
+Terrorists:
+***
+Prevent Counter-Terrorist
+force from rescuing the hostages.
+
+Other Notes:
+***
+RUN LIKE HELL !!! 8-)
+
+(Textures are from verious other
+maps, here are the maps:
+=
+de_vine; de_outrage;
+de_trome; de_meco;
+=
+There are some textures from
+maps not listed here, but I
+forgot the names of the other
+ones, sorry.)
+
+================
+I would like to thank:
+================
+Robin Hood (Renier);
+EZmeat (Gerhard);
+Be_Nice (Tessa);
+Cutie Pie (Melanie);
+Mom, Dad & God!
+================
+
+ [MADE IN SOUTH AFRICA]
+
+(Press FIRE to continue)

@@ -1,0 +1,107 @@
+[en]
+FLASHER_MSG_PART = You flashed a teammate
+FLASHER_MSG_TOTAL = You totally flashed a teammate
+
+THE_FLASHED_MSG = You've been teamflashed by
+
+ADMIN_MSG = %s flashed a teammate (%s)
+BLOCK_USER_FLASH_MSG = %s was punished for flashing too much teammates
+
+FLASHER_MSG_LEFT1 = If you flash
+FLASHER_MSG_LEFT2 = more teammates you will be punished!
+
+[ro]
+FLASHER_MSG_PART = Ai orbit un coechipier
+FLASHER_MSG_TOTAL = Ai orbit total un coechipier
+
+THE_FLASHED_MSG = Ai fost orbit de
+
+ADMIN_MSG = %s l-a orbit pe (%s)
+BLOCK_USER_FLASH_MSG = %s a fost pedepsit pentru ca a orbit prea multi coechipieri
+
+FLASHER_MSG_LEFT1 = Daca mai orbesti
+FLASHER_MSG_LEFT2 = coechipieri o sa fi pedepsit!
+
+[de]
+FLASHER_MSG_PART = Du hast ein Teamkamerad geblendet
+FLASHER_MSG_TOTAL = Du hast ein Teamkamerad total geblendet
+
+THE_FLASHED_MSG = Du wurdest geblendet durch
+
+ADMIN_MSG = %s blendete ein Teamkamerad (%s)
+BLOCK_USER_FLASH_MSG = %s blendete zuviele Teamkameraden und wurde bestraft.
+
+FLASHER_MSG_LEFT1 = Wenn du noch
+FLASHER_MSG_LEFT2 = weitere Teamkameraden blendest wirst du bestraft werden!
+
+[tw]
+FLASHER_MSG_PART = 你閃到隊友了
+FLASHER_MSG_TOTAL = 隊友被你閃到全白了
+
+THE_FLASHED_MSG = 你被隊友閃到了
+
+ADMIN_MSG = %s 閃到隊友（%s）
+BLOCK_USER_FLASH_MSG = %s 閃到太多對友被而處罰了
+
+FLASHER_MSG_LEFT1 = 如果你閃到
+FLASHER_MSG_LEFT2 = 以上的隊友是會被處罰的！
+
+[sk]
+FLASHER_MSG_PART = Zaflashoval si splohráča.
+FLASHER_MSG_TOTAL = Úplne si zaflashoval spoluhráča.
+
+THE_FLASHED_MSG = Zaflashoval ťa :
+
+ADMIN_MSG = %s zaflashoval (%s)
+BLOCK_USER_FLASH_MSG = %s bol potrestaný za mnohonásobné zaflashovanie spoluhráča.
+
+FLASHER_MSG_LEFT1 = Pokial este zaflashujes
+FLASHER_MSG_LEFT2 = krát spoluhráča, budeš potrestaný!
+
+[fin]
+FLASHER_MSG_PART = Flashasit oman puolulaisen
+FLASHER_MSG_TOTAL = sina totaalisesti flashasit puolulaisesi
+
+THE_FLASHED_MSG = sinut flashasi
+
+ADMIN_MSG = %s flashasi oman puolulaisen (%s)
+BLOCK_USER_FLASH_MSG = %s rangaistiin koska han flashasi liikaa omia puolulaisia
+
+FLASHER_MSG_LEFT1 = jos flashaat
+FLASHER_MSG_LEFT2 = lisaa omia puolulaisiasi sinua rangaistaan!
+
+[fr]
+FLASHER_MSG_PART = Tu as flashé un équipier
+FLASHER_MSG_TOTAL = Tu as totalement flashé un équipier
+
+THE_FLASHED_MSG = Tu as été flashé par
+
+ADMIN_MSG = %s a flashé son équipier: (%s)
+BLOCK_USER_FLASH_MSG = %s a été punis pour avoir flashé trop d'équipiers
+
+FLASHER_MSG_LEFT1 = Si tu flash
+FLASHER_MSG_LEFT2 = encore des équipiers tu seras punis !
+
+[es]
+FLASHER_MSG_PART = Cegaste a un companiero
+FLASHER_MSG_TOTAL = Cegaste totalmente a un companiero
+
+THE_FLASHED_MSG = Fuiste cegado por
+
+ADMIN_MSG = %s cego al companiero (%s)
+BLOCK_USER_FLASH_MSG = %s fue castigado por cegar a demasiados companieros
+
+FLASHER_MSG_LEFT1 = Si tu ciegas
+FLASHER_MSG_LEFT2 = mas companieros seras castigado!
+
+[nl]
+FLASHER_MSG_PART = Je maakte een teamlid blind
+FLASHER_MSG_TOTAL = Je maakte een teamlid helemaal blind
+
+THE_FLASHED_MSG = Je hebt verblind door je teammaat
+
+ADMIN_MSG = %s verblinde een teamlid (%s)
+BLOCK_USER_FLASH_MSG = %s is gestraft voor het verblinden van teveel teamleden
+
+FLASHER_MSG_LEFT1 = Als je veel teamleden verblind
+FLASHER_MSG_LEFT2 = word je door meer teamleden gestraft!

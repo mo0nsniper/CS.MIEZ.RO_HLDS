@@ -1,0 +1,23 @@
+de_canals_90 - Bomb/Defuse 
+Original 
+map made by Valve.
+CS1.6 classic version remake by 90 
+
+
+
+Counter-Terrorists: Prevent terrorists 
+from bombing places.
+
+Team members must defuse any bombs 
+that place.
+
+
+Terrorists: The Terrorist carrying the 
+C4
+must destroy one of the place.
+
+
+Other Notes: There are 2 places in the mission.
+
+
+(Press FIRE to continue)
