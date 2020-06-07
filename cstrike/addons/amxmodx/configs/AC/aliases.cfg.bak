@@ -1,0 +1,21 @@
+;this file shuld be in \addons\amxmodx\configs\AC
+; Kick --------------------------------------------------------------------------------------------
+
+ac_add_alias 1 togglepanic
+ac_add_alias 1 +radar
+ac_add_alias 1 -radar
+ac_add_alias 1 XYMenu
+ac_add_alias 1 #menu
+ac_add_alias 1 Menukey
+ac_add_alias 1 _menu
+ac_add_alias 1 prim3
+ac_add_alias 1 cd_version
+
+; Ban  --------------------------------------------------------------------------------------------
+
+ac_add_alias 2 +x
+ac_add_alias 2 +a
+ac_add_alias 2 raiz0
+ac_add_alias 2 dev1
+
+

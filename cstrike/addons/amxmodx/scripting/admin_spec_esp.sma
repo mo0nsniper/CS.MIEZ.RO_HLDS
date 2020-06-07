@@ -46,7 +46,7 @@
 
 #define PLUGIN "Admin Spectator ESP"
 #define VERSION "1.4_beta"
-#define AUTHOR "KoST & mo0n_sniper"
+#define AUTHOR "KoST"
 
 enum {
 	ESP_ON=0,
@@ -248,19 +248,10 @@ public client_putinserver(id){
 
 public init_admin_options(id){
 	
-	//for (new i=0;i<10;i++){
-	//	admin_options[id][i]=true
-	//}
-	admin_options[id][ESP_ON]=false
-	admin_options[id][ESP_LINE]=false
-	admin_options[id][ESP_BOX]=true
-	admin_options[id][ESP_NAME]=false
-	admin_options[id][ESP_HEALTH_ARMOR]=false
-	admin_options[id][ESP_WEAPON]=false
-	admin_options[id][ESP_CLIP_AMMO]=false
-	admin_options[id][ESP_DISTANCE]=false
+	for (new i=0;i<10;i++){
+		admin_options[id][i]=true
+	}
 	admin_options[id][ESP_TEAM_MATES]=false
-	admin_options[id][ESP_AIM_VEC]=true
 	load_vault_data(id)
 }
 
@@ -309,19 +300,11 @@ public load_vault_data(id){
 	
 }
 
-#if AMXX_VERSION_NUM < 183
-public client_disconnect(id){
-	save2vault(id)
-	admin[id]=false
-	spec[id]=0
-}
-#else
 public client_disconnected(id){
 	save2vault(id)
 	admin[id]=false
 	spec[id]=0
 }
-#endif
 
 public change_esp_status(id,bool:on){
 	if (on){

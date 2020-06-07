@@ -7657,9 +7657,11 @@ stock announceThePendingVoteTime( Float:time )
 {
     LOG( 128, "I AM ENTERING ON announceThePendingVoteTime(1) time: %f", time )
     new targetTime = floatround( time, floatround_floor );
-    client_print_color ( 0, print_team_red, "^3========================================" );
+    printMesajRosu ( 0, "" );
+    printMesajRosu ( 0, "^3========================================" );
     printMesajRosu ( 0, "^3%L", LANG_PLAYER, "DMAP_NEXTMAP_VOTE_REMAINING1", targetTime );
-    client_print_color ( 0, print_team_red, "^3========================================" );
+    printMesajRosu ( 0, "^3========================================" );
+    printMesajRosu ( 0, "" );
 
     // If there is enough time
     if( targetTime > 4

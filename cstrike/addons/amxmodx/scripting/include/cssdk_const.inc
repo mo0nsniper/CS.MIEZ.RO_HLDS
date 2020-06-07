@@ -122,14 +122,17 @@
 /**
 * get_entvar(entity, var_effects) values
 */
-#define EF_BRIGHTFIELD                  1   // Swirling cloud of particles
-#define EF_MUZZLEFLASH                  2   // Single frame ELIGHT on entity attachment 0
-#define EF_BRIGHTLIGHT                  4   // DLIGHT centered at entity origin
-#define EF_DIMLIGHT                     8   // Player flashlight
-#define EF_INVLIGHT                     16  // Get lighting from ceiling
-#define EF_NOINTERP                     32  // Don't interpolate the next frame
-#define EF_LIGHT                        64  // Rocket flare glow sprite
-#define EF_NODRAW                       128 // Don't draw entity
+#define EF_BRIGHTFIELD                  1    // Swirling cloud of particles
+#define EF_MUZZLEFLASH                  2    // Single frame ELIGHT on entity attachment 0
+#define EF_BRIGHTLIGHT                  4    // DLIGHT centered at entity origin
+#define EF_DIMLIGHT                     8    // Player flashlight
+#define EF_INVLIGHT                     16   // Get lighting from ceiling
+#define EF_NOINTERP                     32   // Don't interpolate the next frame
+#define EF_LIGHT                        64   // Rocket flare glow sprite
+#define EF_NODRAW                       128  // Don't draw entity
+#define EF_FORCEVISIBILITY              2048 // force visibility
+#define EF_OWNER_VISIBILITY             4096 // visibility for owner
+#define EF_OWNER_NO_VISIBILITY          8192 // no visibility for owner
 
 /**
 * Break Model Defines
@@ -178,6 +181,17 @@
 #define OBS_IN_EYE                      4 // First Person
 #define OBS_MAP_FREE                    5 // Free Overview
 #define OBS_MAP_CHASE                   6 // Chase Overview
+
+/**
+* Custom constants iuser3
+*
+*/
+#define PLAYER_CAN_SHOOT                (1<<0)
+#define PLAYER_FREEZE_TIME_OVER         (1<<1)
+#define PLAYER_IN_BOMB_ZONE             (1<<2)
+#define PLAYER_HOLDING_SHIELD           (1<<3)
+#define PLAYER_PREVENT_DUCK             (1<<4)
+#define PLAYER_PREVENT_CLIMB            (1<<5) // The player can't climb ladder
 
 /**
 * Instant damage values for use with the 3rd parameter of the "Damage" client
@@ -1302,10 +1316,7 @@ enum InfoMapBuyParam
 /**
 * For SetUse
 */
-enum USE_TYPE
-{
-	USE_OFF,
-	USE_ON,
-	USE_SET,
-	USE_TOGGLE
-};
+#define USE_OFF                         0
+#define USE_ON                          1
+#define USE_SET                         2
+#define USE_TOGGLE                      3

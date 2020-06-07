@@ -300,7 +300,7 @@ enum GamedllFunc
 
 	/*
 	* Description:      -
-	* Params:           (const PlayerMove:ppmove, const server)
+	* Params:           (const playerIndex)
 	*/
 	RG_PM_Move,
 
@@ -375,7 +375,7 @@ enum GamedllFunc
 	* Params:           (const index, Float:vecStart[3], Float:vecVelocity[3])
 	*/
 	RG_PlantBomb,
-	
+
 	/*
 	* Description:      Called when a player hit to entity.
 	* Return type:      bool
@@ -664,7 +664,7 @@ enum GamedllFunc_CBasePlayer
 
 	/*
 	* Description:      Called on spawn, the attempt to equip a player.
-	* Params:           (const this, bool addDefault, bool equipGame)
+	* Params:           (const this, bool:addDefault, bool:equipGame)
 	*/
 	RG_CBasePlayer_OnSpawnEquip,
 
@@ -733,20 +733,75 @@ enum GamedllFunc_CBasePlayer
 	* Params:           (const this, const grenade, Float:vecSrc[3], Float:vecThrow[3], Float:time, const usEvent)
 	*/
 	RG_CBasePlayer_ThrowGrenade,
-	
+
 	/*
 	* Description:      Called when a player's set protection.
 	* Return type:      void
 	* Params:           (const this, Float:time)
 	*/
 	RG_CBasePlayer_SetSpawnProtection,
-	
+
 	/*
 	* Description:      Called when a player's remove protection.
 	* Return type:      void
 	* Params:           (const this)
 	*/
 	RG_CBasePlayer_RemoveSpawnProtection,
+
+	/*
+	* Description:      Called when the game prints hint message into DHUD.
+	* Return type:      bool
+	* Params:           (const this, const message[], Float:duration, bool:bDisplayIfPlayerDead, bool:bOverride)
+	*/
+	RG_CBasePlayer_HintMessageEx,
+
+	/*
+	* Description:      Called when a player press use and if a suitable candidate is not found.
+	* Return type:      void
+	* Params:           (const this)
+	*/
+	RG_CBasePlayer_UseEmpty,
+	
+	/*
+	* Description:      Called when a idle player is removed from server.
+	* Return type:      void
+	* Params:           (const this, const reason[])
+	*/
+	RG_CBasePlayer_DropIdlePlayer,	
+};
+
+/**
+* GamedllFunc CBasePlayer
+*/
+enum GamedllFunc_CBasePlayerWeapon
+{
+	/*
+	* Description:      -
+	* Return type:      BOOL
+	* Params:           (const this)
+	*/
+	RG_CBasePlayerWeapon_CanDeploy = BEGIN_FUNC_REGION(weapon),
+
+	/*
+	* Description:      -
+	* Return type:      BOOL
+	* Params:           (const this, szViewModel[], szWeaponModel[], iAnim, szAnimExt[], skiplocal)
+	*/
+	RG_CBasePlayerWeapon_DefaultDeploy,
+
+	/*
+	* Description:      -
+	* Return type:      int
+	* Params:           (const this, iClipSize, iAnim, Float:fDelay)
+	*/
+	RG_CBasePlayerWeapon_DefaultReload,
+
+	/*
+	* Description:      -
+	* Return type:      bool
+	* Params:           (const this, iAnim, iStartAnim, Float:fDelay, Float:fStartDelay, const pszReloadSound1[], const pszReloadSound2[])
+	*/
+	RG_CBasePlayerWeapon_DefaultShotgunReload,
 };
 
 /**
@@ -3499,7 +3554,31 @@ enum CBasePlayer_Members
 	* Get params:       Float:get_member(index, member, element);
 	* Set params:       set_member(index, member, Float:value, element);
 	*/
-	m_flLastCommandTime
+	m_flLastCommandTime,
+
+	/*
+	* Description:      The amount of money sent to the client last time.
+	* Member type:      int
+	* Get params:       get_member(index, member);
+	* Set params:       set_member(index, member, value);
+	*/
+	m_iLastAccount,
+
+	/*
+	* Description:      The amount of health sent to the client last time.
+	* Member type:      int
+	* Get params:       get_member(index, member);
+	* Set params:       set_member(index, member, Float:value);
+	*/
+	m_iLastClientHealth,
+
+	/*
+	* Description:      Waiting time for update fields into scoreboard.
+	* Member type:      float
+	* Get params:       Float:get_member(index, member);
+	* Set params:       set_member(index, member, Float:value);
+	*/
+	m_tmNextAccountHealthUpdate,
 };
 
 /**
@@ -3900,8 +3979,8 @@ enum PlayerMove
 	/*
 	* Description:      -
 	* Member type:      char [256]
-	* Get params:       get_member(const PlayerMove:var, dest[], const lenght);
-	* Set params:       set_member(const PlayerMove:var, const source[]);
+	* Get params:       get_pmove(const PlayerMove:var, dest[], const lenght);
+	* Set params:       set_pmove(const PlayerMove:var, const source[]);
 	*/
 	pm_sztexturename,
 
@@ -4052,8 +4131,8 @@ enum PlayerMove
 	/*
 	* Description:      -
 	* Member type:      char [256]
-	* Get params:       get_member(const PlayerMove:var, dest[], const lenght);
-	* Set params:       set_member(const PlayerMove:var, const source[]);
+	* Get params:       get_pmove(const PlayerMove:var, dest[], const lenght);
+	* Set params:       set_pmove(const PlayerMove:var, const source[]);
 	*/
 	pm_physinfo,
 
@@ -4071,7 +4150,7 @@ enum PlayerMove
 	* Get params:       get_pmove(const PlayerMove:var, Float:output[3], element);
 	* Set params:       set_pmove(const PlayerMove:var, Float:dest[3], element);
 	*/
-	pm_player_maxs
+	pm_player_maxs,
 };
 
 /**
@@ -4285,7 +4364,7 @@ enum MoveVars
 	* Get params:       Float:get_movevar(const MoveVars:var);
 	* Set params:       set_movevar(const MoveVars:var, Float:value);
 	*/
-	mv_skyvec_z
+	mv_skyvec_z,
 };
 
 /**
@@ -4402,6 +4481,30 @@ enum CCSPlayer_Members
 	* Set params:       set_member(index, member, Float:value);
 	*/
 	m_flSpawnProtectionEndTime,
+	
+	/*
+	* Description:      -
+	* Member type:      class Vector
+	* Get params:       get_member(index, member, Float:output[3]);
+	* Set params:       set_member(index, member, Float:dest[3]);
+	*/
+	m_vecOldvAngle,
+
+	/*
+	* Description:      -
+	* Member type:      int
+	* Get params:       get_member(index, member);
+	* Set params:       set_member(index, member, value);
+	*/
+	m_iWeaponInfiniteAmmo,
+
+	/*
+	* Description:      -
+	* Member type:      int
+	* Get params:       get_member(index, member);
+	* Set params:       set_member(index, member, value);
+	*/
+	m_iWeaponInfiniteIds,
 };
 
 /**
@@ -4701,7 +4804,7 @@ enum CBasePlayerWeapon_Members
 	* Get params:       Float:get_member(index, member);
 	* Set params:       set_member(index, member, Float:value);
 	*/
-	m_Weapon_flLastFireTime
+	m_Weapon_flLastFireTime,
 };
 
 /**
@@ -5334,6 +5437,14 @@ enum CFamas_Members
 	* Set params:       set_member(index, member, value);
 	*/
 	m_Famas_iShellOn,
+
+	/*
+	* Description:      Basic damage that famas deals before any multiplier, such as hitgroup, armor, distance and bullet penetration in burst mode
+	* Member type:      float
+	* Get params:       get_member(index, member);
+	* Set params:       set_member(index, member, value);
+	*/
+	m_Famas_flBaseDamageBurst,
 };
 
 /**
@@ -5356,6 +5467,14 @@ enum CUSP_Members
 	* Set params:       set_member(index, member, value);
 	*/
 	m_USP_usFire,
+
+	/*
+	* Description:      Basic damage that usp deals before any multiplier, such as hitgroup, armor, distance and bullet penetration in silence mdoe
+	* Member type:      float
+	* Get params:       get_member(index, member);
+	* Set params:       set_member(index, member, value);
+	*/
+	m_USP_flBaseDamageSil,
 };
 
 /**
@@ -5514,6 +5633,14 @@ enum CM4A1_Members
 	* Set params:       set_member(index, member, value);
 	*/
 	m_M4A1_usFire,
+
+	/*
+	* Description:      Basic damage that m4a1 deals before any multiplier, such as hitgroup, armor, distance and bullet penetration in silence mdoe
+	* Member type:      float
+	* Get params:       get_member(index, member);
+	* Set params:       set_member(index, member, value);
+	*/
+	m_M4A1_flBaseDamageSil,
 };
 
 /**
@@ -5758,4 +5885,12 @@ enum CCSPlayerWeapon_Members
 	* Set params:       set_member(index, member, bool:value);
 	*/
 	m_Weapon_bHasSecondaryAttack = BEGIN_MEMBER_REGION(csplayerweapon),
+
+	/*
+	* Description:      Basic damage that weapon deals before any multiplier, such as hitgroup, armor, distance and bullet penetration
+	* Member type:      float
+	* Get params:       Float:get_member(index, member);
+	* Set params:       set_member(index, member, Float:value);
+	*/
+	m_Weapon_flBaseDamage,
 };

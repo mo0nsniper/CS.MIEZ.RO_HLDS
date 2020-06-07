@@ -1,7 +1,7 @@
 ﻿"Language"	"dutch"
 "Tokens"
 {
-"SteamBootstrapper_UpdatingSteam"	"%appname% updaten..."
+"SteamBootstrapper_UpdatingSteam"	"%appname% bijwerken..."
 "[english]SteamBootstrapper_UpdatingSteam"	"Updating %appname%..."
 "SteamBootstrapper_ElevationPrompt"	"%appname% moet zichzelf eerst updaten alvorens op te starten."
 "[english]SteamBootstrapper_ElevationPrompt"	"%appname% needs to self-update before launching."
@@ -35,7 +35,7 @@
 "[english]SteamBootstrapper_UpdateComplete"	"Update complete, launching %appname%..."
 "SteamBootstrapper_UpdateChecking"	"Controleren op beschikbare updates..."
 "[english]SteamBootstrapper_UpdateChecking"	"Checking for available updates..."
-"SteamBootstrapper_UpdatePrepare"	"Update voorbereiden..."
+"SteamBootstrapper_UpdatePrepare"	"Bijwerken voorbereiden..."
 "[english]SteamBootstrapper_UpdatePrepare"	"Preparing to update..."
 "SteamBootstrapper_UpdateDownload"	"Update downloaden..."
 "[english]SteamBootstrapper_UpdateDownload"	"Downloading update..."
